@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/res/icons">
+        <file>login.png</file>
+        <file>stockwatcher.ico</file>
+    </qresource>
+</RCC>
